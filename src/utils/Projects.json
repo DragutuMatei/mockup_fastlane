@@ -1,0 +1,56 @@
+{
+  "projects": [
+    {
+      "title": "Twitter follow 🌈",
+      "description": "Follow us on twitter",
+      "link": "https://twitter.com/exemple",
+      "reward": "FS Token"
+    },
+    {
+      "title": "Getting Started",
+      "description": "Here are the basics:",
+      "list1": [
+        "Type 1. + space to create an ordered list, - for bullet points and [] for a todo list. You can indent using tabs.",
+        "Mark any text and use keyboard shortcuts or toolbar to make text bold (cmd+b), italic (cmd+shift+i) or underscored (cmd+u)",
+        "Type #, ##, ### to create headlines.",
+        "Insert images by dropping them, pasting them or inserting from the toolbar.",
+        "Paste Youtube links to embed them"
+      ],
+      "desc2": "Concepts:",
+      "list2": [
+        "Submission type: how the user will prove that he/she completed the quest. All types except URL and image can be automatically validated",
+        "Recurrence: how often the user can complete the quest.",
+        "Conditions: controls which users and when they can access the quest"
+      ],
+      "reward": "FS Token"
+    },
+    {
+      "title": "Daily connect 📆",
+      "description": "This is our easiest quest! Just connect to Zealy and claim this one every day.",
+      "reward": "FS Token"
+    },
+    {
+      "title": "Invite in Discord 🎉",
+      "description": "Invite 10 people to the Discord. Track your invites with invites tracker in Discord",
+      "desc2": "Join the 'BG Trade' server",
+      "reward": "FS Token"
+    },
+    {
+      "title": "Visit BGTrade Website",
+      "description": "Visit BGTrade Website",
+      "link": "https://www.bgtrade.io/",
+      "reward": "FS Token"
+    },
+    {
+      "title": "Follow BGT QuestN",
+      "description": "Follow BGT QuestN",
+      "link": "https://app.questn.com/BGTrade",
+      "reward": "FS Token"
+    },
+    {
+      "title": "Follow BGT Medium",
+      "description": "Follow BGT Medium",
+      "link": "https://medium.com/@BG_Trade",
+      "reward": "FS Token"
+    }  ]
+}
