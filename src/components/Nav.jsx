@@ -11,7 +11,7 @@ function Nav() {
         <BsMapFill id="map" />
         <h3 className="p1">Quests</h3>
       </Link>
-      <Link to={"/liderboard"} className="longl">
+      <Link to={"/leaderboard"} className="longl">
         <MdBarChart id="chart" />
         <h3 className="p1">Leaderboard</h3>
       </Link>

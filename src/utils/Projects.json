@@ -26,7 +26,7 @@
     },
     {
       "title": "Daily connect 📆",
-      "description": "This is our easiest quest! Just connect to Zealy and claim this one every day.",
+      "description": "This is our easiest quest! Just connect to FastLane and claim this one every day.",
       "reward": "FS Token"
     },
     {
@@ -36,21 +36,22 @@
       "reward": "FS Token"
     },
     {
-      "title": "Visit BGTrade Website",
-      "description": "Visit BGTrade Website",
-      "link": "https://www.bgtrade.io/",
+      "title": "Visit FastLane Website",
+      "description": "Visit FastLane Website",
+      "link": "https://www.FastLane.io/",
       "reward": "FS Token"
     },
     {
-      "title": "Follow BGT QuestN",
-      "description": "Follow BGT QuestN",
-      "link": "https://app.questn.com/BGTrade",
+      "title": "Follow FastLane QuestN",
+      "description": "Follow FastLane QuestN",
+      "link": "https://app.questn.com/FastLane",
       "reward": "FS Token"
     },
     {
-      "title": "Follow BGT Medium",
-      "description": "Follow BGT Medium",
+      "title": "Follow FastLane Medium",
+      "description": "Follow FastLane Medium",
       "link": "https://medium.com/@BG_Trade",
       "reward": "FS Token"
-    }  ]
+    }
+  ]
 }
