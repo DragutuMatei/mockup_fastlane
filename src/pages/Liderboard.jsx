@@ -1,7 +1,8 @@
 import React from "react";
 import Nav from "../components/Nav";
 import "../assets/style/page.scss";
-import { BsDiscord, BsMapFill, BsTwitter } from "react-icons/bs";
+import { RiTwitterXFill } from "react-icons/ri";
+import { BsDiscord, BsMapFill } from "react-icons/bs";
 import { FaEdit, FaTelegramPlane } from "react-icons/fa";
 import { GiWallet } from "react-icons/gi";
 import Side from "../components/Side";
@@ -25,8 +26,8 @@ function Liderboard() {
                 interaction, one task at a time.
               </p>
               <div className="l">
-                <a href="">
-                  <BsTwitter />
+                <a href="https://twitter.com/fstlaneapp">
+                  <RiTwitterXFill />
                 </a>
                 <a href="">
                   <BsDiscord />
@@ -50,7 +51,7 @@ function Liderboard() {
 
                 <Link to={"#"} className="longl" id="blur">
                   <FaEdit id="map" />
-                  <h3 className="p1">Request access</h3>
+                  <h3 className="p1">gurus</h3>
                 </Link>
               </div>
             </div>

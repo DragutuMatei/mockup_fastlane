@@ -235,7 +235,6 @@
   .discover {
     width: 100%;
     max-width: 975px;
-    height: 900px;
     max-height: calc(100vh - 10px);
     overflow-y: scroll;
     top: 50%;
@@ -317,6 +316,9 @@
           display: flex;
           justify-content: flex-start;
           align-items: center;
+          img{
+            width: 50px;
+          }
           svg {
             color: #18a0fb;
             font-size: 25px;

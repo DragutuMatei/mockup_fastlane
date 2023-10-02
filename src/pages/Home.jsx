@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from "react";
 import "../assets/style/page.scss";
 import { IoIosClose } from "react-icons/io";
-import { BsDiscord, BsMapFill, BsTwitter } from "react-icons/bs";
+import { RiTwitterXFill } from "react-icons/ri";
+import { BsDiscord, BsMapFill } from "react-icons/bs";
 import { FaEdit, FaTelegramPlane } from "react-icons/fa";
 import { GiWallet } from "react-icons/gi";
 import json from "../utils/Projects.json";
@@ -99,14 +100,8 @@ function Home() {
                     </a>
                   )}
                   <h3 className="title" style={{ marginTop: 50 }}>
-                    SUBMISSION 📝
+                    To be checked 📝
                   </h3>
-                  <p className="p1">Upload a screenshot as a proof</p>
-                  <div className="send">
-                    <BiUserCircle />
-                    <input type="text" placeholder="@Pintswap0x" />
-                    <h4 className="buton">Follow</h4>
-                  </div>
                   <div className="line"></div>{" "}
                   <p className="p1" style={{ textAlign: "center" }}>
                     ⚠︎ After completion, it can take up to 10s before your claim
@@ -117,8 +112,11 @@ function Home() {
                 <div className="right">
                   <h3 className="h3">Reward</h3>
                   <h3 className="title">
-                    <IoDiamondOutline />
                     {proiect.reward}
+                    <img
+                      src={require("../assets/images/icon_logo.svg").default}
+                      alt=""
+                    />
                   </h3>
                 </div>
               </div>
@@ -138,8 +136,8 @@ function Home() {
                 interaction, one task at a time.
               </p>
               <div className="l">
-                <a href="">
-                  <BsTwitter />
+                <a href="https://twitter.com/fstlaneapp">
+                  <RiTwitterXFill />
                 </a>
                 <a href="">
                   <BsDiscord />
@@ -162,7 +160,7 @@ function Home() {
                 </Link>
                 <Link to={"#"} className="longl" id="blur">
                   <FaEdit id="map" />
-                  <h3 className="bold_p">Request access</h3>
+                  <h3 className="bold_p">gurus</h3>
                 </Link>
               </div>
             </div>
