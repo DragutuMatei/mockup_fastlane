@@ -160,7 +160,7 @@ function Home() {
                 </Link>
                 <Link to={"#"} className="longl" id="blur">
                   <FaEdit id="map" />
-                  <h3 className="bold_p">gurus</h3>
+                  <h3 className="bold_p">Creators</h3>
                 </Link>
               </div>
             </div>

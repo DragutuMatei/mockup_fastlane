@@ -51,7 +51,7 @@ function Liderboard() {
 
                 <Link to={"#"} className="longl" id="blur">
                   <FaEdit id="map" />
-                  <h3 className="p1">gurus</h3>
+                  <h3 className="p1">Creators</h3>
                 </Link>
               </div>
             </div>
